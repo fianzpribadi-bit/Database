@@ -1,13 +1,5 @@
 {
-  "allowedIps": ["172.18.0.18","172.18.0.4"],
-  "users": [
-    {
-      "username": "yanzx",
-      "password": "yanzx123"
-    },
-    {
-      "username": "dirga",
-      "password": "dirga123"
-    }
+  "tokens" : [
+    “8448545288:AAFpq_T8TlYI1MIe9zF6ZucwQ1IfH6CQVcU"
   ]
 }
